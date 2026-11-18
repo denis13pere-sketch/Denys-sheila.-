@@ -1,0 +1,9 @@
+PAGINA ROMANTICA DENYS & SHEILA
+
+Incluye index.html y la carpeta fotos con las 9 fotos que enviaste.
+
+Para publicarla en GitHub Pages: crea un repositorio publico, sube index.html y la carpeta fotos, luego entra en Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+La web incluye enlaces de busqueda de musica en YouTube para The Weeknd, Bad Bunny, Milo J y ROA. No incluye archivos de canciones protegidas por derechos de autor.
+
+Aviso: al publicar la web, las fotos quedan visibles para quien tenga el enlace.
